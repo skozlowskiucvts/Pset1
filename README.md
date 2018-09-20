@@ -54,9 +54,9 @@ Print APCS to the console in large letters constructed with hashtags (i.e., #). 
   #  #   #     # #        #
  #    #  #     # #        #
 ######## ######  #        ########
-#      # #       #               #
-#      # #       #               #
-#      # #       ######## ########
+#      # #   #               #
+#      # #   #               #
+#      # #   ######## ########
 ```
 
 ### Exercise 2
